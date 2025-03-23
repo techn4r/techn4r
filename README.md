@@ -21,13 +21,13 @@
 
 ## GitHub Статистика
 <!-- Основная статистика -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techn4r&show_icons=true&theme=radical)](https://github.com/techn4r)
 
 <!-- Статистика непрерывного streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://github.com/yourusername)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techn4r&theme=radical)](https://github.com/techn4r)
 
 <!-- Трофеи GitHub -->
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=techn4r&theme=onedark)](https://github.com/techn4r)
 
 ## Образование
 - **ИТМО**  
