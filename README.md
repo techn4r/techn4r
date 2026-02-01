@@ -205,7 +205,6 @@ print(me.current_focus())
 <tr>
 <td align="center">
 <strong>Bachelor of Software Engineering</strong><br>
-<sub>Specialization: Machine Learning & Artificial Intelligence</sub><br>
 <sub>2024 - 2028</sub>
 </td>
 </tr>
