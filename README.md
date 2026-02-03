@@ -138,12 +138,12 @@ print(me.current_focus())
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techn4r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techn4r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssivitskiy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssivitskiy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&border_radius=10"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techn4r&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssivitskiy&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&border_radius=10" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techn4r&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&border_radius=10" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssivitskiy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&border_radius=10" alt="Activity Graph"/>
 
 </div>
 
@@ -186,7 +186,7 @@ print(me.current_focus())
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=techn4r&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ssivitskiy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 
 </div>
 
